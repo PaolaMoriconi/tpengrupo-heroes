@@ -1,4 +1,4 @@
-grupo: 
+# Integrantes: 
 Fernando Baez
-facundo Rodriguez
+Facundo Rodriguez, Edad: 25, Ciudad: Corrientes
 Paola Moriconi
