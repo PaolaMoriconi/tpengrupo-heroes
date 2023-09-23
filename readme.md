@@ -1,3 +1,5 @@
+Nombre del proyecto: heroes
+grupo: 1
 # Integrantes: 
 Fernando Baez ,edad : 32 , ciudad : buenos aires
 Facundo Rodriguez, Edad: 25, Ciudad: Corrientes
