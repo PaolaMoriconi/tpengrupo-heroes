@@ -1,6 +1,6 @@
 Nombre del proyecto: heroes
-
-grupo: 
-Fernando Baez
-facundo Rodriguez
-Paola Moriconi
+grupo: 1
+# Integrantes: 
+Fernando Baez ,edad : 32 , ciudad : buenos aires
+Facundo Rodriguez, Edad: 25, Ciudad: Corrientes
+Paola Moriconi, edad: 27, ciudad: Buenos Aires
